@@ -1,0 +1,36 @@
+.augseja-kaste {
+    height: 100px;
+    width: 100px;
+    background-color:cyan;
+   
+    
+    
+}
+.augseja-kaste2 {
+    height: 100px;
+    width: 100px;
+    background-color:deeppink;
+   
+    
+    
+}
+
+.videja-kaste {
+    height: 100px;
+    width: 100px;
+    background-color:darkred;
+    
+    
+}
+
+.videja-kaste2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    
+}
+.kaste{
+    display: flex;
+    justify-content: center;
+    
+}
